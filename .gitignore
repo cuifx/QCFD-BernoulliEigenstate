@@ -1,0 +1,15 @@
+# credentials: never commit the cloud key
+qcloud_key.txt
+API.txt
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# run output
+*.log
+*.orig
+*.bak
